@@ -2,6 +2,8 @@
 
 This app is designed to identify pairs of employees who have worked on common projects for the longest duration. The application parses a CSV file containing employee data, extracts relevant information, and calculates the total time pairs have worked together on shared projects.
 
+Live version of the app, hosted on netlify, [here](https://65872cfbe2582cb602e19c79--teal-daffodil-dad15d.netlify.app/)
+
 ## Key Features
 
 - Data Parsing and Sanitization: The application parses and sanitizes the data.
