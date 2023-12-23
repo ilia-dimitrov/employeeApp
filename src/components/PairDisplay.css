@@ -1,0 +1,32 @@
+.pair-details {
+  display: flex;
+  justify-content: space-start;
+}
+.left-column p {
+  max-width: 330px;
+}
+@media (max-width: 768px) {
+  .pair-details {
+    flex-direction: column;
+  }
+}
+.left-column {
+  padding: 20px;
+}
+.left-column span {
+  font-weight: 700;
+}
+.right-column span {
+  font-weight: 800;
+}
+.right-column {
+  padding: 20px;
+}
+#search {
+  margin-left: 25px;
+}
+#bold {
+  border: none;
+  height: 2px;
+  background-color: #333;
+}
